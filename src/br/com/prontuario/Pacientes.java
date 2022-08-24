@@ -7,5 +7,6 @@ public class Pacientes {
 	public char sexo;
 	public int idade;
 	public long cartao_sus;
+	public long cpf;
 
 }
